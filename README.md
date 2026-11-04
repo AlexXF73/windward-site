@@ -11,4 +11,4 @@ Publish from branch `main`, folder `/(root)` in Settings → Pages. No build too
 - Support: https://alexxf73.github.io/windward-site/support/
 - Privacy: https://alexxf73.github.io/windward-site/privacy/
 
-Copyright 2026 Alexey Shtol. Contact: alexey.shtol@gmail.com.
+Copyright 2026 Alexey Shtol. Contact: windward@shtol.com.
